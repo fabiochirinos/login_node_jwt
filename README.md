@@ -1,4 +1,4 @@
-# 📌 Login con Node, Express, JWT y MtSQL
+# 📌 Login con Node, Express, JWT y MySQL
 ¡Hola! Esta es una aplicación desarrollada con Node.js, un login interactivo que realiza la función de registrar usuarios, autenticar usuarios para poder ingresar a un Dashbord como  página principal. 
 
 ## Ejecutar la Aplicación
